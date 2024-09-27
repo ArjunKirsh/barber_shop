@@ -1,0 +1,41 @@
+.navContent{
+    color: #202020 !important;
+    font-family: Lalezar;
+    font-weight: 400;
+    font-size: 24px;
+}
+.navBtn{
+    background-color: #EB1616;
+    font-family: Lalezar;
+    font-weight: 400 !important;
+    font-size: 24px;
+
+}
+
+.servicecard_name{
+    color: #FF0000;
+    font-family: PT Serif Caption;
+    font-size: 20px;
+    font-weight: 400;
+ 
+    
+}
+.servicecard_des{
+    font-family: PT Serif Caption;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.footer_text{
+    font-family: PT Serif Caption;
+    font-size: 17px;
+    font-weight: 400;
+    
+}
+
+.footer_title{
+    font-family: Lalezar;
+font-size: 28px !important;
+font-weight: 400;
+
+}

@@ -1,0 +1,198 @@
+{
+  "home": {
+    "welcomeMessage": "Welcome to Our Barber Shop!",
+    "featuredServices": [
+      {
+        "id": 1,
+        "name": "Classic Haircut",
+        "description": "A timeless haircut that suits everyone.",
+        "price": 25
+      },
+      {
+        "id": 2,
+        "name": "Beard Trim",
+        "description": "Keep your beard looking sharp and tidy.",
+        "price": 15
+      },
+      {
+        "id": 3,
+        "name": "Shave",
+        "description": "Enjoy a traditional hot towel shave.",
+        "price": 20
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "customer": "John Smith",
+        "feedback": "Best barber shop in town! Highly recommended!"
+      },
+      {
+        "id": 2,
+        "customer": "Jane Doe",
+        "feedback": "I love the atmosphere and the skilled barbers."
+      }
+    ]
+  },
+  "services": [
+    { "id":"1",
+      "heading":"WE PROVIDE THE HIGHEST QUALITY SERVICE"},
+    {"id":"2",
+      "serviceCard":[
+      {
+        "id": 1,
+        "name": "Haircut",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/6c51/5b3b/d039db635b389beb985d175c0a68c6f0?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CCQIx0qRhFBt06xZ22Sl-WpgC~IYxmojTlEG138-mndPas~5lQJhjiRNiUyVuwAS-fmScYGUUXiW7H9kcu16D2iXek9acgV-gkq0zL3AllhVHBv3kXTU71hX51tGPr05uWyZXrm2AEmwhlezEAfpY8SE-Ycg0fuED1h5708qArWeX70puglQMkSCYnanVcTwYb6NEPZRj0pfGKK5jz3ES~EtvUvYbZrZpLUJeD6VrEFwDlwPRgyT883IcIvkxrTIuxtQWFGDjsgCTOPhiNQMUFlXwEatB6WbE9gmCQ4FzHzWYbuBkpvRU65k5Urqfs5En7MMz6h085YM7xf~7rzLiw__"
+  
+      },
+      {
+        "id": 2,
+        "name": "MOUSTACHE",
+        "image":"https://s3-alpha-sig.figma.com/img/6eb7/e198/f3a1486746379082b0eae7fc12041e7c?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jYv~0cufWUPYymKlBUtyeBgBvQRdZgMuF0-BAbehqAO9cTMSfMii738PhNZKEMWSPPnZGko6IUo5whzg5f-aGJgHVPIJpYPZJzvyIh2BGTfZ3FjQCE3ZRAcL1KFkv0OALxaNQhric58JZ4YryJelaZXwP1K2gCFpdNK~1m-FXv5Xv8ZWMdNL1oJNI-grvhZAYGeQZhMh2J4ShcfuCo2R93oIak8u~YjHPmSpN2KgBqnHqcpBSH1p7KxL-u9ndfIVFEcIBspQ14R2ztaFv8LReiEXrEGLJ6Q4ikf1zPtl71YJwuzFDC3tGie-ww~h~Y0GC6GBdnNbLN0gS6hculOEfA__",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec "
+     
+      },
+      {
+        "id": 3,
+        "name": "SHAVE",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/7df5/03d1/785591134dfadd111bccde13939b1fbd?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bsMyKzlIitDhHgTl0pJVH6QgcIWO~05zmw2yv42i8VwDRtHtx~3Lc-tSkk813jVZbE35dTP5Trl6et7T4BIFUMK9a9aqjmkcArYu29Awxp0pE~LV6k3dAciQMiciNm8zBUfHNHg9D4ex6mQ5hJ8I2yAF6J3wExah1ZMwtVgoxZ2w5lFn5NLAivb~U79aSy8CPrcuugQjI1qFGp0Pl2vjF2zzR4jsoSzHoOFmWGvK1M2I4M3jOg3PpHOi53Ocl-cqAKVLmFqx6yqnfSx5RapMYtwe5h5B5-D3FiV2JAPqK6c552a2ZaIbAl7YClN4FIHjKbk9XNdaAdq2du5XrDSXHw__"
+      
+      },
+      {
+        "id": 4,
+        "name": "SHAMPOO",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/f47d/616c/828ae44b40164b83b7a8a05498965b91?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KUM5niVB8k8njlJ7NQKgykKrFovaiB2OdJVB5eTlU0OVFF22jPDcN8Xdtc8LBdepuOzfc8PpRANWRJOzqgHjWYTtI5Z7qoyQhfPlmQpehDqowuNbzWhSHr0moBoVK-b9AUkjbdDAXbAxaOsWvCBLgM~Oy2Ie5pWAqpkiL9J5HQ88tDUGlewsqTF4X6R1BRgVwrBfDkevRBGs2KpXkoYjsiz5PFrh4Xrgz1HXd1wKR5hLZSCN2TeoSxob6h3sLShJGioASiCrVErW4znKHcDZJW4s5J-H9WILES3k-RTGVwyUvvkZ9sM8S6ZFVLINd6pDwzH0weFRtLnD-O~mKYkzaw__"
+      
+      },
+      {
+        "id": 5,
+        "name": "BEARD TRIM",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/fd77/65ea/937911369bb4ba7cffad0fdd9744d0e5?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HUktv9xJRF8RUsJbOoKp2OhMUVGJiIzhQAprYf-IQfWwcfHip3ClW064f~faG8Oy2Tvu6iJF7cRbkMxQHHAqr34eiT1iE-A-jb96GECb0ZSlZq8B5L~OWSMWMpn0X1SazTvN~lLPt7SQvI2Al30l-UpP1ZzszY-v9cMkUZQYdqjwpMU4IU6zVK88Cc8H~xHo58i1K8d7gDV8bFnfhebvkXbFvy5xJpLOPUtRzFQKNLHD6z4CUBPp9521hdO2DS9ryZbSjBAWAZh8hTMQWcK6~un97gg2WQsF1d2OFuMmYcHa~JghO5db1Vj0JP92f7tQmMBbxqDl-o6buETSnWKRMg__"
+     
+      },
+      {
+        "id": 6,
+        "name": "HAIR DYEING",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/3933/41db/65b73b2a3241165b3f98f5d5b492b3a7?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JC3~57nZqpOtcvNpHRZ5q1K3epWq8uzZEjHXjnE2YNxzocGRkBpT5G71zzDz4F-LJulxQR8kGglpvF31lYULsmavGLC194JbBmCg55VIQtxHdNCnkLojrvwffSLb5RR5h3ykIFBuupDOlFbTwK6uaFHqgzOaENJcgdEEHeEdX6M0QmBs3H36JXaqToV5Q78QW35mZe6gmtB-4H~MtBZaCmIPDzoSaKsBMcVOAF~4xXm3N6sWsvq~boJjd5S0y-BLNGyYgsXm5j28~rjiZ0LeHz6JK0q8ajFbUREXxjKQwTGGRWxKh2yZGA1PwjuUK3i7vwtfTwperQQfKLcab8IALg__"
+      
+      },
+      {
+        "id": 7,
+        "name": "BEARD GROMMING",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/770b/0b20/b192d2feef6e70bcb2e33e9cd0e02537?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C9-ywiGUBusaiILv0CNgfxmQfSUqog-l34VzOAAybXoDsuKHI3SfdIisegxA09c782SSh3apKbilhi9~XFsHwdUAZlq1zTYM3BKees87aRHK4M1JFqFp0WFffPf5uPNBnXkVkyY1Xm~2jCcit9NBv6Pgm5hQ8DjCFKpj6tLakDM-yOeBziCredi5nRqgCShhmqPccQrQivzNGmULSJ0r3QnGLjMXgC5bXQ2T6xgaGBPFthl7CUFgfs5EDAXCYaBLwIUV8psI8fsbXFa8GzYI63SPYk16EryiRdSgDu1n8dCgLPQjjznLNI~pFmrsCAINuTUOYfIvHCQit-FIK4gv9A__"
+      
+      },
+      {
+        "id": 8,
+        "name": "FADE HAIRCUT",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/9501/fd1c/57d1354fa54e4510fdfa5e3c71d7e4fd?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oRBAREXiSbHjF9E24makXhUnXXoU2Q57WAKmfukYNDpyJwcbyFtzDY-Vm4Se4buGKBStHredxLtzoQb0pJVPH4qTm08OgUGF4aiwz2eELIcw-tgPD6xzk5oVMiY8dFUadys9Qai8HzO4L2MQuCXASGcKMfw5Qa7R2ypuOsuCwO4D6fKEE1cmeHtV4k~-S97EH2FKuRh-ITf4KW9Vx91yZHCmWAo0AgZrX69qZ44UTWq8byDYwHq8aQ7xSgXSukeWEBdchCxdGNTgo3c5qS-YKgd9P48~HXU-2ryZyK0JTACsV~lsYPhDU1GKoMqHOfq6zXvhdx9aTCL0JLTV90Z7rg__"
+      
+      },
+      {
+        "id": 9,
+        "name": "HEAD MASSAGE",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/8597/5848/f9620d9569ad63a5ca06b40cfacafae5?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=M6a62hfUdUOo0539gNZ7Jj7thyfCjbByEJR6~MaWMOukrekLFmU6I1iskwliZyhGPreL6H86og8iv3uy2c-F51-5d-UmWzbTYJgqqKWqXFPIcbwSWc34LdNEoEMyR0dOFlKbMqkL-KZhyY1z0MxcdiEihEFaBHSYOXyN9ZLfwdwbSZFGJWAlDBd7PAkZ901ncYWq-aqsGtYfe4F6y4xf~zgO2~Sy7WlQL9ADuK6X-T9ANJSdaXMAVAnT~zxGeoSAChf2S4hZ0HZApfBWRoD~9G3Y6G8afog2A3YAlbB-k2tvs~8xgYDP6Y~f2qHj~Mk~posWsAEoNzhqFl43N8uQHg__"
+      }
+    ]},
+    {"id":"3",
+    "bookingCard":[
+      {
+        "id": 1,
+        "name": "Haircut",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/a954/bb36/2007190e2b1ccd2e5a6b342db3ba085b?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MXlEbo-t6KRbVEN413Qz8-0MCzASB59A-QxywOphipu-ZsjQoNNiy~Nw7sTGOS93DeLRjgPpZV4bck1eVtArUpB8D0~APuv3fvQFtXVWKqDzxVLxFr-5HKFO3v1luPUD-YIddtu2xlKbso34jyt0AY5fPweiBV5-q3g0RULkyzQJ0c1-Zomn6-BAwX-6FV8Sdx1F7QxdZXV3mm~y4KIn0sJdS3un8aSKFspF3YMr8~49IqHIXmB8t4q1MpiZtJpFRKoDNsg5WZvtL7llDxeHivXSAtO6wcC9VUTMXMqPgAg7wSe5yMQNdxsjHZ38TCtD6Visy9KQz2DB7ghlSd1m-w__"
+  
+      },
+      {
+        "id": 2,
+        "name": "MOUSTACHE",
+        "image":"https://s3-alpha-sig.figma.com/img/27e8/c199/ee3486ced3ac1c3eb10980f91ec66ae1?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ei8yAZng3jY0UlF~TMuqMGkvMGDvufUnGS5QYvVa46ge~VVTwTlbRifva-Srvdysc5LxJXGbegt7Zlb6F3sYXInnKNuFYgLjfnxUlmaWgIp2ReYBaOtp~S61YG4nZ22597VEfbOUQgnLicnPl6MRZNRu91l6CaKjdTR5~9K82juTzXdeAKiu3MIr4Lt4Ld197uHf1jcfs-L9rWx2y37T-r~uPXJ5JwJcwP8DDtouBI2~sUyZ1eQ3h~aEZm7Prsii8PJiQXMVCOKQCAmk7PASSgk6vGHbd-51eOGRhX-2dzD~0cVCSUmZOmAj4gY2I5tSrSAfZudMQIBSy0i4BrpPGw__",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec "
+     
+      },
+      {
+        "id": 3,
+        "name": "SHAVE",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/19d8/99bc/d66be07e07a200e4252252efbd580cb3?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k3phbcUO0u5lGNEKphHWEjR34UTPr7whuY2q8~8t0sTrrcX0wjV-d0kfM1Oeo3hvnQO--~-2hiy1WebvfFRgCsTTKhoWXyxrRXnv0zzfNgg3UkKJqLaV~kidzUzyOienXRSaVZXay7K5s~cJXNvZ6o5OnBec5J3m6fBJ2xeJSETB~S5WLKDBCaIqZXR5M~25rppfGEOAdMpXx7gmkedhR7aeQxxedcC~6BucBYIRJkmxK3yL080GDswpmG~iDeJ8LWZuxN43uT89vqdfB69mrR~5pzLubZNIIiLRXc6QJidQjTdqJyKZxeG9UCAgY8AMgbYj44yXAFXY94ncG6Wc~Q__"
+      
+      },
+      {
+        "id": 4,
+        "name": "SHAMPOO",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/bd76/8396/721764cda5443fdf466a6adcf0a6762e?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Py2ZmpcY0~PQ8pXf4yaTgaENx6sIeEQ2TI3lySe-P~grxCaKIaNSOgrRU1vxScEt1apS28eBsWdseA83dNnW6y1sYNt99zGxOrmdSUWg6l6XuxZ3O90Z2nbsy6j7ASsVPDHv1ByinN8H1pa7eewWCA9SjLe9NqzFQxekGJGMJ23ZBhbg7XhWDIAL5C0P9InCkwBnhgqiUbb0O9U0bqdY15No-rlA9-YN4c46DAfx3GGTOdDm1Jal6IOMXlDRWx4~bEYn0AeDGDeV3JHLvrHAVZFaGFIUDPB16SfVvHkt79yGp61ewN-M-1-5S0kZKyk0FHIKP7nRdR9~JtMWbYcRhw__"
+      
+      },
+      {
+        "id": 5,
+        "name": "BEARD TRIM",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/8fc1/0d50/1b5793e93f88d39dd2de34b8489e1f93?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KIMYV7Ll4aRXzHeKrI1iJBBiBT06eJ1Z8Hzx3NCZW-3yUPo-Z~NuJL2HONpbqyH6gbiy3q~4B0AiMjUK2Rlu0WTI7q6J3JdL6O1zRWYNGzmnl12FyrL-zExzXz2tcySqp8ubdjcDfwK9~BbWSh~hdpDZFvrCbObE4TqkSWdEcmVOr9UTkk2SE1H57zEIPSMIdfwXxPNr0gy2WZ4Nq7DzNt~Fn2pCr7ebAS1Rj7q5lVzcA3Au6cMI3YkgHI9BM0VvHlLPBnvY7jhSn28Pn4Pq2jedWTeUPB807tLtPGOWIkJP9WUijOjbFIOzNh40EKqbDq7vSCSAA2xZPUNqvWpw~A__"
+     
+      },
+      {
+        "id": 6,
+        "name": "HAIR DYEING",
+        "description": "A dui aliquam ultrices eros lorem nibh vivamus. Quis aliquam duis pharetra faucibus ultrices volutpat quisque. Convallis nec lectus mi nec ",
+        "image":"https://s3-alpha-sig.figma.com/img/2ee4/e2be/aaea7edc963d56c31ed0dd77f18a6563?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=l10FMSCyn4V5VqKWk3kg2BooiDbrXm0uLoKXyOynzxGOeNwjCY0WRKeifABj4l59D9P4HQCcQ3e1xusgUHoZ8aYL-oCefp-7Ce~Rk6bbn8NsmGNXCI~QQHlUMhrI7AdXjb0t1qxrmmrLjYytuI0oBi3X4ft0SG7hM06R4OH2VUiO2ML5QjwRdkF3fRYD9CcTFKkvOR-DNErjDZAP4S-i~-Zs-BYwQR8QT1UT4nkRfWSYq3n6vwpC5bduivDJ7f~Y~uctb8pil4Vx5j5oJU9YmgcibzeDnYNcACJzwpk90HwCpNA7H6x1WBlhRQ204e-qqipWC-vv2sp3tLzFOnVHRg__"
+      
+      }
+      
+    ]}
+    
+
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Top 5 Hair Trends for 2024",
+      "content": "Explore the latest trends in men's hairstyles for the upcoming year.",
+      "author": "Barber Joe",
+      "date": "2024-01-10"
+    },
+    {
+      "id": 2,
+      "title": "How to Maintain Your Beard",
+      "content": "Tips and tricks for keeping your beard healthy and stylish.",
+      "author": "Barber Jane",
+      "date": "2024-02-05"
+    }
+  ],
+  "contact": {
+    "phone": "555-1234",
+    "email": "info@barbershop.com",
+    "address": "123 Barber St, Hairtown, HT 12345",
+    "socialMedia": {
+      "facebook": "https://facebook.com/barbershop",
+      "instagram": "https://instagram.com/barbershop",
+      "twitter": "https://twitter.com/barbershop"
+    }
+  },
+  "about": {
+    "history": "Our barber shop has been serving the community since 1990, providing top-notch grooming services.",
+    "mission": "To provide high-quality haircuts and a great customer experience.",
+    "team": [
+      {
+        "id": 1,
+        "name": "Barber Joe",
+        "role": "Master Barber",
+        "experience": "10 years"
+      },
+      {
+        "id": 2,
+        "name": "Barber Jane",
+        "role": "Barber",
+        "experience": "5 years"
+      }
+    ]
+  }
+}

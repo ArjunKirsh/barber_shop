@@ -7,6 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        lalezar: ['Lalezar', 'cursive'],
+        ptSerifCaption: ['PT Serif Caption', 'serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
