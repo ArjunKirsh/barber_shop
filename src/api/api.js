@@ -1,14 +1,14 @@
 
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3001';
+const BASE_URL = 'https://66f6af02436827ced97809ce.mockapi.io/api';
 
 export const getServices = async () => {
   try {
     const response = await axios.get(`${BASE_URL}/services`);
-    console.log('response:', response)
+    const splitdata=response.data
     if (response.status === 200) {
-      return response.data; 
+      return splitdata[0].services;
     } else {
       console.error('Error fetching services:', response.statusText);
       throw new Error('Failed to fetch services');
